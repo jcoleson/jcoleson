@@ -3,6 +3,7 @@
   - [LinkedIn](https://www.linkedin.com/in/jared-coleson/)
   - [Stack Overflow](https://stackoverflow.com/cv/jaredcoleson)
   - [dev.to](https://dev.to/jcoleson)
+  - [Twitter](https://twitter.com/jcoleson)
 
 <!---
 jcoleson/jcoleson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
