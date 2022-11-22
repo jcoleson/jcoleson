@@ -1,9 +1,9 @@
 - 👋 Hi, I’m [@jcoleson](https://github.com/jcoleson)
-- 📫 How to reach me 
-  - [LinkedIn](https://www.linkedin.com/in/jared-coleson/)
-  - [Stack Overflow](https://stackoverflow.com/cv/jaredcoleson)
-  - [dev.to](https://dev.to/jcoleson)
-  - [Twitter](https://twitter.com/jcoleson)
+- 📫 Reach me at:
+  - <a rel="me" href="https://dotnet.social/@jcoleson">Linked In</a>
+  - <a rel="me" href="https://dotnet.social/@jcoleson">Stack Overflow</a>
+  - <a rel="me" href="https://dotnet.social/@jcoleson">dev.to</a>
+  - <a rel="me" href="https://dotnet.social/@jcoleson">Twitter</a>
   - <a rel="me" href="https://dotnet.social/@jcoleson">Mastodon</a>
 <!---
 jcoleson/jcoleson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
