@@ -4,8 +4,7 @@
   - [Stack Overflow](https://stackoverflow.com/cv/jaredcoleson)
   - [dev.to](https://dev.to/jcoleson)
   - [Twitter](https://twitter.com/jcoleson)
-  - [Mastodon](https://dotnet.social/@jcoleson)
-
+  - <a rel="me" href="https://dotnet.social/@jcoleson">Mastodon</a>
 <!---
 jcoleson/jcoleson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
